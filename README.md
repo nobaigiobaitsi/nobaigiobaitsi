@@ -1,7 +1,7 @@
 ## 🚀 Featured Projects
 
 
-### 🚗 [Transfers and Rental Website](https://github.com/nobaigiobaitsi/cars-transfer.git)
+### 🚗 [Greekend Transfers](https://github.com/nobaigiobaitsi/cars-transfer.git)
 An actual site for the greek company Greekend Transfers that specializes in premium transfers 
 and rentals.It is a modern, responsive landing page built with React + Vite. Every day, I try 
 to add something new to further my support in the company.
