@@ -10,7 +10,7 @@ to add something new to further my support in the company.
 In Progress. A full-stack AI-powered web app for helping people train for English Certificates.
 Currently, only a quiz generator. Will add more training excersises and an essay evaluator.
 
-### 📦 [Inventory Management System – Django Web App](https://github.com/yourusername/inventory-django)
+### 📦 [Inventory Management System – Django Web App](https://github.com/nobaigiobaitsi/inventory-django)
 
 A clean and functional inventory management system built with Django, Python, SQLite and Bootstrap. The 
 app allows users to add, update, view, and delete product records in a user-friendly interface. 
