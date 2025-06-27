@@ -6,8 +6,8 @@ An actual site for the greek company Greekend Transfers that specializes in prem
 and rentals.It is a modern, responsive landing page built with React + Vite. Every day, I try 
 to add something new to further my support in the company.
 
-### 🔥 [AI Powered Language Coach](https://github.com/nobaigiobaitsi/ai-language-coach.git)
-In Progress. A full-stack AI-powered web app for helping people train for English Certificates.
+### 🔥 [AI Powered Language Coach](https://github.com/nobaigiobaitsi/language-coach-django.git)
+In Progress. An AI-powered web app made with Django for helping people train for English Certificates.
 Currently, only a quiz generator. Will add more training excersises and an essay evaluator.
 
 ### 📦 [Inventory Management System – Django Web App](https://github.com/nobaigiobaitsi/inventory-django)
