@@ -9,8 +9,8 @@ Check out my portfolio site here:
 
 
 ### [Greekend Transfers](https://www.greekendtransfers.com/)
-An actual site for the greek company Greekend Transfers that specializes in premium transfers 
-and rentals.It is a modern, responsive landing page built with React + Vite. Every day, I try 
+A live site for the greek company Greekend Transfers that specializes in premium transfers 
+and rentals. It is a modern, responsive landing page built with React + Vite. Every day, I try 
 to add something new to further my support in the company.
 Here is the [code](https://github.com/nobaigiobaitsi/cars-transfer.git).
 
