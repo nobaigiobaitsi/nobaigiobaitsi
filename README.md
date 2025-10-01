@@ -1,5 +1,6 @@
 ## Hello, I am Stavros
-
+I am part of the team at Braincube SA currently working at Eurobank as a Frontend Developer. 
+Also I love doing personal projects as well as making tools and solutions for accountants and firms.
 
 Check out my portfolio site here:  
 [My Portfolio](https://benevolent-daffodil-b18961.netlify.app)
