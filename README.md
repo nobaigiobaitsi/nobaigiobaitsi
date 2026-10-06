@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://benevolent-daffodil-b18961.netlify.app">Portfolio</a> ·
+  <a href="https://nobaigiobaitsi.github.io/my-portfolio-website/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/s-angelopoulos/">LinkedIn</a> ·
   <a href="https://github.com/nobaigiobaitsi?tab=repositories">Projects</a>
 </p>
@@ -56,5 +56,5 @@ Built with **React Native, Expo, and TypeScript**. Currently in active developme
 
 ## Connect
 
-Find more of my work on my [portfolio](https://benevolent-daffodil-b18961.netlify.app),
+Find more of my work on my [portfolio](https://nobaigiobaitsi.github.io/my-portfolio-website/),
 or connect with me on [LinkedIn](https://www.linkedin.com/in/s-angelopoulos/).
