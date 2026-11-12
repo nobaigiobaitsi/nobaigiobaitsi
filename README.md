@@ -21,7 +21,7 @@
 
 ---
 
-I'm a software developer at **Braincube S.A.**, working on enterprise banking applications.
+I'm a software developer at **Braincube S.A.**, working on enterprise banking applications for **Eurobank**.
 Alongside my professional work, I build mobile apps, websites for businesses and teams, and practical tools.
 
 As the technical collaborator for **Leaf Properties**, I develop and maintain its property website, internal CRM, and supporting business tools.
