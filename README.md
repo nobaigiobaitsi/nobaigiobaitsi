@@ -34,7 +34,7 @@ From managing property records to publishing listings and preparing client prese
 
 | Application | What it does | Technologies |
 | --- | --- | --- |
-| **[Property Website ↗](https://leafproperties.net/)** | Searchable property listings, photo galleries, location details, and enquiry forms, connected to the team's CRM. | React · JavaScript · Cloudflare |
+| **[Property Website ↗](https://leafproperties.gr/)** | Searchable property listings, photo galleries, location details, and enquiry forms, connected to the team's CRM. | React · JavaScript · Cloudflare |
 | **Leaf CRM** | Internal application for managing property details, photos, documents, and website publication, with drag-and-drop photo ordering. | React · Supabase |
 | **Presentation Builder** | Creates branded PDF presentations using selected properties, details, and photos for client proposals. | React · JavaScript · PDF export |
 | **Watermark Tool** | Adds the company logo to property photos, with a default Leaf watermark and support for custom logos. | Web application · Image processing |
