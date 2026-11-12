@@ -39,7 +39,7 @@ From managing property records to publishing listings and preparing client prese
 | **Presentation Builder** | Creates branded PDF presentations using selected properties, details, and photos for client proposals. | React · JavaScript · PDF export |
 | **Watermark Tool** | Adds the company logo to property photos, with a default Leaf watermark and support for custom logos. | Web application · Image processing |
 
-[Visit Leaf Properties →](https://leafproperties.net/) · [View application screenshots →](https://nobaigiobaitsi.github.io/my-portfolio-website/#work)
+[Visit Leaf Properties →](https://leafproperties.gr/) · [View application screenshots →](https://nobaigiobaitsi.github.io/my-portfolio-website/#work)
 
 ## Currently building: FitPlanner
 
