@@ -34,12 +34,12 @@ From managing property records to publishing listings and preparing client prese
 
 | Application | What it does | Technologies |
 | --- | --- | --- |
-| **[Property Website ↗](https://leafproperties.gr/)** | Searchable property listings, photo galleries, location details, and enquiry forms, connected to the team's CRM. | React · JavaScript · Cloudflare |
+| **[Property Website](https://leafproperties.gr/)** | Searchable property listings, photo galleries, location details, and enquiry forms, connected to the team's CRM. | React · JavaScript · Cloudflare |
 | **Leaf CRM** | Internal application for managing property details, photos, documents, and website publication, with drag-and-drop photo ordering. | React · Supabase |
 | **Presentation Builder** | Creates branded PDF presentations using selected properties, details, and photos for client proposals. | React · JavaScript · PDF export |
 | **Watermark Tool** | Adds the company logo to property photos, with a default Leaf watermark and support for custom logos. | Web application · Image processing |
 
-[Visit Leaf Properties →](https://leafproperties.gr/) · [View application screenshots →](https://nobaigiobaitsi.github.io/my-portfolio-website/#work)
+[Visit Leaf Properties](https://leafproperties.gr/) · [View application screenshots](https://nobaigiobaitsi.github.io/my-portfolio-website/#work)
 
 ## Currently building: FitPlanner
 
@@ -52,14 +52,14 @@ Built with **React Native, Expo, and TypeScript**. Currently in active developme
 - Follow workout sessions with an optional rest timer.
 - Track completed sessions and training progress.
 
-[Explore FitPlanner →](https://github.com/nobaigiobaitsi/fitness-planner-app)
+[Explore FitPlanner](https://github.com/nobaigiobaitsi/fitness-planner-app)
 
 ## Selected projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| [P.OLA F.C.](https://github.com/nobaigiobaitsi/pola-site) · [Website ↗](https://polafc.com/) | Football team website featuring the squad, club story, and sponsor. | React · Vite · CSS |
-| [Greekend Transfers](https://github.com/nobaigiobaitsi/cars-transfer) · [Website ↗](https://www.greekendtransfers.com/) | Business website presenting transfer services, vehicle options, and customer enquiries. | React · Vite · JavaScript |
+| [P.OLA F.C.](https://github.com/nobaigiobaitsi/pola-site) · [Website](https://polafc.com/) | Football team website featuring the squad, club story, and sponsor. | React · Vite · CSS |
+| [Greekend Transfers](https://github.com/nobaigiobaitsi/cars-transfer) · [Website](https://www.greekendtransfers.com/) | Business website presenting transfer services, vehicle options, and customer enquiries. | React · Vite · JavaScript |
 | [Alpha Consultants](https://github.com/nobaigiobaitsi/accounting-site) | Accounting firm website presenting services and business contact information. | React · Vite · Tailwind CSS |
 | [Inventory Management](https://github.com/nobaigiobaitsi/inventory-django) | Web application for managing product records and stock quantities. | Django · Python · SQLite · Bootstrap |
 
